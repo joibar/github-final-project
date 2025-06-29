@@ -17,33 +17,29 @@ Supports multiple tax brackets
 - Dependencies listed in requirements.txt
 
 #### Installation
-1- bash
-
-2- git clone https://github.com/your-username/tax-calculator.git
-
-3- cd tax-calculator
-
-4- pip install -r requirements.txt
+1- bash<br>
+2- git clone https://github.com/your-username/tax-calculator.git<br>
+3- cd tax-calculator<br>
+4- pip install -r requirements.txt<br>
 
 #### Running the Calculator
-1- bash
-
-2- python calculator.py
+1- bash<br>
+2- python calculator.py<br>
 
 You’ll be prompted to enter your income and select a tax profile.
 
 ### 📦 Example
 
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
+Input:<br>
+   p, principal amount<br>
+   t, time period in years<br>
+   r, annual rate of interest<br>
+Output<br>
    simple interest = p*t*r
 
 Enter gross income: 50000 <br>
-Using standard tax profile for Portugal 2025...
-Estimated Tax: €8,375
+Using standard tax profile for Portugal 2025...<br>
+Estimated Tax: €8,375<br>
 Net Income: €41,625
 
 ### 🤝 Contributing
