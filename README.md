@@ -27,6 +27,7 @@ Supports multiple tax brackets
 
 #### Running the Calculator
 1- bash
+
 2- python calculator.py
 
 You’ll be prompted to enter your income and select a tax profile.
