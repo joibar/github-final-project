@@ -17,14 +17,19 @@ Supports multiple tax brackets
 - Dependencies listed in requirements.txt
 
 #### Installation
-1- bash<br>
-2- git clone https://github.com/your-username/tax-calculator.git<br>
-3- cd tax-calculator<br>
-4- pip install -r requirements.txt<br>
+<ol>
+ 1- bash<br>
+ 2- git clone https://github.com/your-username/tax-calculator.git<br>
+ 3- cd tax-calculator<br>
+ 4- pip install -r requirements.txt<br>
+</ol>
+
 
 #### Running the Calculator
-1- bash<br>
-2- python calculator.py<br>
+<ol>
+ 1- bash<br>
+ 2- python calculator.py<br>
+</ol>
 
 You’ll be prompted to enter your income and select a tax profile.
 
