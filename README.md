@@ -33,14 +33,16 @@ Supports multiple tax brackets
 
 You’ll be prompted to enter your income and select a tax profile.
 
-### 📦 Example
+### 💡 Example
 
-Input:<br>
-   p, principal amount<br>
-   t, time period in years<br>
-   r, annual rate of interest<br>
-Output<br>
-   simple interest = p*t*r
+**Input:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;p, principal amount<br>
+&nbsp;&nbsp;&nbsp;&nbsp;t, time period in years<br>
+&nbsp;&nbsp;&nbsp;&nbsp;r, annual rate of interest<br>
+<br>
+**Output:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;simple interest = p * t * r
+
 
 Enter gross income: 50000 <br>
 Using standard tax profile for Portugal 2025...<br>
