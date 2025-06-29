@@ -6,16 +6,22 @@ A lightweight, user-friendly tool to calculate income tax based on configurable 
  ### 🔧 Features
 Supports multiple tax brackets
 <ul>
-- Calculates net and gross income
-- Allows tax rule customization (great for adapting to different countries or fiscal years)
-- Simple command-line interface or web interface (depending on implementation)
-- Optional export to CSV or PDF
+&nbsp;- Calculates net and gross income
+&nbsp;- Allows tax rule customization (great for adapting to different countries or fiscal years)
+&nbsp;- Simple command-line interface or web interface (depending on implementation)
+&nbsp;- Optional export to CSV or PDF
 </ul>
 
 ## 🚀 Getting Started
 #### Prerequisites
-- Python 3.8+ (or specify your language/environment)
-- Dependencies listed in requirements.txt
+<ul>
+ <li>
+  Python 3.8+ (or specify your language/environment)
+ </li>
+ <li>
+  Dependencies listed in requirements.txt
+ </li>
+</ul>
 
 #### Installation
 <ol>
