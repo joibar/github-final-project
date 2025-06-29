@@ -18,8 +18,11 @@ Supports multiple tax brackets
 
 #### Installation
 1- bash
+
 2- git clone https://github.com/your-username/tax-calculator.git
+
 3- cd tax-calculator
+
 4- pip install -r requirements.txt
 
 #### Running the Calculator
