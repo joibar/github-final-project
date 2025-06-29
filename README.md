@@ -1,9 +1,9 @@
 # github-final-project
 
-##Tax Calculator
+## Tax Calculator
 A lightweight, user-friendly tool to calculate income tax based on configurable tax brackets. Ideal for freelancers, small business owners, or anyone needing a quick and accurate tax estimate.
 
-🔧 ###Features
+🔧 ### Features
 Supports multiple tax brackets
 
 - Calculates net and gross income
