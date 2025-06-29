@@ -6,35 +6,31 @@ A lightweight, user-friendly tool to calculate income tax based on configurable 
  ### 🔧 Features
 Supports multiple tax brackets
 <ul>
-&nbsp;- Calculates net and gross income
-&nbsp;- Allows tax rule customization (great for adapting to different countries or fiscal years)
-&nbsp;- Simple command-line interface or web interface (depending on implementation)
-&nbsp;- Optional export to CSV or PDF
+ <li>Calculates net and gross income</li>
+ <li>Allows tax rule customization (great for adapting to different countries or fiscal years)</li>
+ <li>Simple command-line interface or web interface (depending on implementation)</li>
+ <li>Optional export to CSV or PDF</li>
 </ul>
 
 ## 🚀 Getting Started
 #### Prerequisites
 <ul>
- <li>
-  Python 3.8+ (or specify your language/environment)
- </li>
- <li>
-  Dependencies listed in requirements.txt
- </li>
+ <li>Python 3.8+ (or specify your language/environment)</li>
+ <li>Dependencies listed in requirements.txt</li>
 </ul>
 
 #### Installation
 <ol>
- 1- bash<br>
- 2- git clone https://github.com/your-username/tax-calculator.git<br>
- 3- cd tax-calculator<br>
- 4- pip install -r requirements.txt<br>
+ <li>Bash</li>
+ <li>git clone https://github.com/your-username/tax-calculator.git</li>
+ <li>cd tax-calculator</li>
+ <li>pip install -r requirements.txt</li>
 </ol>
 
 #### Running the Calculator
 <ol>
- 1- bash<br>
- 2- python calculator.py<br>
+ <li>bash</li>
+ <li>python calculator.py</li>
 </ol>
 
 You’ll be prompted to enter your income and select a tax profile.
