@@ -33,8 +33,15 @@ Supports multiple tax brackets
 You’ll be prompted to enter your income and select a tax profile.
 
 ### 📦 Example
-text
-Enter gross income: 50000
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+
+Enter gross income: 50000 <br>
 Using standard tax profile for Portugal 2025...
 Estimated Tax: €8,375
 Net Income: €41,625
